@@ -1,0 +1,62 @@
+body {
+    background-color:burlywood;
+}
+#rezultati-naslov{
+    margin-top:15px;
+    text-align:center;
+    color: red;
+    font-family: 'Luminari', fantasy;
+}
+.container{
+    background-color:bisque;
+    width:33%;
+    margin-top:20px;
+    border-color: black;
+    border-radius:10px;
+    border-style: solid;
+}
+
+#topUsersList{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+/* #top5 {
+    border-radius: 10px;
+    border-color:red;
+    border-style: solid;
+}
+#recent {
+    border-radius: 10px;
+    border-color:red;
+    border-style: solid;
+} */
+#mostRecentUser{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+
+.horlinija {
+    color:red;
+    border:10px dashed red;
+    border-radius:15px;
+}
+
+#dugme {
+    font-size:large;
+    font-weight:bold;
+    background-color:green;
+    margin-bottom:5px;
+    margin-right:5px;
+    width:33%;
+}
+#dugme:hover{
+    border-width:5px;
+    border-color:red;
+    border-radius: 15px;
+}
+.dug {
+    text-align: center;
+}

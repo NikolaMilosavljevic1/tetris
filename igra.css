@@ -1,0 +1,39 @@
+body{
+    background-image:url(tetris-dodatno/igra.png);
+    background-size:auto;
+    background-repeat:repeat;
+}
+.container{
+    width:40%;
+    margin-top:15px;
+    border: 5px solid red;
+}
+#igra{
+    background-color: burlywood;
+}
+#ostalo{
+    background-color:aquamarine;
+    text-align:center;
+} 
+#tabla{
+    width:100%;
+    text-align:center;
+}
+#tabla tr {
+    font-size: 17px;
+}
+td {
+    color: transparent;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}  
+
+.info-item {
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-bottom: 5px;
+    border-radius: 10px;
+    border-color: orange;
+    border-style: solid;
+}
